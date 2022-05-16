@@ -21,10 +21,7 @@ Este proyecto a sido iniciado a traves de  [Create React App](https://github.com
 Ejecuta la aplicación en el modo de desarrollo.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-La página se volverá a cargar cuando realice cambios
-
-<img src="%PUBLIC_URL%/pc.png" />\
-<img src="%PUBLIC_URL%/responsive.png" />\
+La página se volverá a cargar cuando realice cambios.
 
 
 ### `npm test`
