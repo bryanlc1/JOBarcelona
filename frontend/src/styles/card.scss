@@ -1,0 +1,31 @@
+.card {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px  solid lightgray;
+    margin: 20px 20px 0 0 ;
+    width: 300px;
+    &:hover{
+        background-color: aqua;
+        border: 1px solid blue;
+    }
+}
+
+.tags{
+    background-color: #0b9b58;
+    color: white;
+    padding: 5px;
+    margin:5px ;
+    border-radius: 10px;
+    
+}
+
+.containerTags{
+    display:flex;
+    flex-wrap: wrap;
+}
+
+@media only screen and (max-width: 800px) {
+    .card{
+        width: 100%;
+    }
+}
