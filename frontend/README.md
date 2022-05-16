@@ -9,6 +9,9 @@ Las carpetas se han separado en funcion de su responsabilidad.\
     -constants\
 Este proyecto a sido iniciado a traves de  [Create React App](https://github.com/facebook/create-react-app).
 
+[Aqui puedes ver el proyecto finalizado](https://jobx-barcelona.vercel.app/).
+
+
 ## Available Scripts
 
  Puede ejecutar:
