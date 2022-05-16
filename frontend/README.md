@@ -1,6 +1,6 @@
 # JOBarcelona '22 | Front-end
 
-Frontend para JOBX , que consiste en permitir a sus users crear listas de regalos y customizarlas.
+Frontend para JOBX , permite a sus users crear listas de regalos y customizarlas.
 Se ha utilizado React en este proyecto , por la flexibilidad que este ofrece.
 Las carpetas se han separado en funcion de su responsabilidad.\
     -Components\
@@ -14,16 +14,16 @@ Este proyecto a sido iniciado a traves de  [Create React App](https://github.com
 
 ## Available Scripts
 
- Puede ejecutar:
+ Puede clonarse el proyecto i ejecutar:
 
 ### `npm start`
 
 Ejecuta la aplicación en el modo de desarrollo.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Abre [http://localhost:3000](http://localhost:3000) para verlo en tu navegador.
 
 La página se volverá a cargar cuando realice cambios.
 
 
 ### `npm test`
 
-Inicia los test realizados del proyecto.\
+Inicia los test realizados del proyecto.
