@@ -2,7 +2,7 @@
 
 Frontend para JOBX , que consiste en permitir a sus users crear listas de regalos y customizarlas.
 Se ha utilizado React en este proyecto , por la flexibilidad que este ofrece.
-Las carpetas se han separado en funcion de su responsabilidad.
+Las carpetas se han separado en funcion de su responsabilidad.\
     -Components\
     -Pages\
     -styles\
